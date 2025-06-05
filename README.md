@@ -1,29 +1,177 @@
-# Fantasy Map Generator
+<!DOCTYPE html><html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Furyon: L'Eredità degli Akaryu</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: white;
+      background: black url('FURYON_COVER.jpg') no-repeat center center/cover;
+    }
+    .overlay {
+      background: rgba(0,0,0,0.8);
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      font-size: 3rem;
+      color: #ff4500;
+    }
+    h2 {
+      color: #ffa500;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .quote {
+      text-align: center;
+      font-size: 1.2rem;
+      font-style: italic;
+      margin-top: -1rem;
+      color: #ffd700;
+    }
+    .section {
+      max-width: 800px;
+      margin: 2rem auto;
+      background: rgba(255, 255, 255, 0.05);
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 0 15px #ff4500;
+    }
+    footer {
+      text-align: center;
+      margin: 2rem 0;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+    audio {
+      display: block;
+      margin: 2rem auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <h1>FURYON</h1>
+    <div class="quote">"Dal fuoco nasce la leggenda."</div><audio controls>
+  <source src="px-downloadaudio_2821ca9e84.mp3" type="audio/mp3">
+  Il tuo browser non supporta l'audio.
+</audio>
 
-Azgaar's _Fantasy Map Generator_ is a free web application that helps fantasy writers, game masters, and cartographers create and edit fantasy maps.
+<div class="section">
+  <h2>Presentazione</h2>
+  <p>
+    Sul pianeta Furyon, due stirpi di draghi antichi combattono per il dominio spirituale del Fuoco Primordiale. L’ultimo erede degli Akaryu, Kaen, si risveglia con un destino incandescente: salvare la sua stirpe e affrontare l’oscurità che minaccia l’equilibrio dell’universo.
+  </p>
+</div>
 
-Link: [azgaar.github.io/Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator).
+<div class="section">
+  <h2>Episodi</h2>
+  <p><strong>Episodio 1:</strong> Kaen si risveglia nel cuore del vulcano sacro. Visioni del passato, un nome dimenticato e una minaccia che ritorna dal cielo infuocato.</p>
+  <p><strong>Episodio 2:</strong> I Custodi del Fuoco radunano le ultime forze. Le leggende sugli Akaryu iniziano a prendere vita.</p>
+  <!-- Puoi aggiungere altri episodi qui -->
+</div>
 
-Refer to the [project wiki](https://github.com/Azgaar/Fantasy-Map-Generator/wiki) for guidance. The current progress is tracked in [Trello](https://trello.com/b/7x832DG4/fantasy-map-generator). Some details are covered in my old blog [_Fantasy Maps for fun and glory_](https://azgaar.wordpress.com).
+<div class="section">
+  <h2>Contatti</h2>
+  <p>Autore: Vittorio Palomba</p>
+  <p>Email: <a href="mailto:vittoriopalomba200@gmail.com" style="color: #ffa500;">vittoriopalomba200@gmail.com</a></p>
+</div>
 
-[![preview](https://github.com/Azgaar/Fantasy-Map-Generator/assets/26469650/9502eae9-92e0-4d0d-9f17-a2ba4a565c01)](https://github.com/Azgaar/Fantasy-Map-Generator/assets/26469650/11a42446-4bd5-4526-9cb1-3ef97c868992)
+<footer>
+  &copy; 2025 Furyon: L'Eredità degli Akaryu. Tutti i diritti riservati.
+</footer>
 
-[![preview](https://github.com/Azgaar/Fantasy-Map-Generator/assets/26469650/e751a9e5-7986-4638-b8a9-362395ef7583)](https://github.com/Azgaar/Fantasy-Map-Generator/assets/26469650/e751a9e5-7986-4638-b8a9-362395ef7583)
+  </div>
+</body>
+</html><!DOCTYPE html><html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Furyon: L'Eredità degli Akaryu</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: white;
+      background: black url('FURYON_COVER.jpg') no-repeat center center/cover;
+    }
+    .overlay {
+      background: rgba(0,0,0,0.8);
+      padding: 2rem;
+    }
+    h1 {
+      text-align: center;
+      font-size: 3rem;
+      color: #ff4500;
+    }
+    h2 {
+      color: #ffa500;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .quote {
+      text-align: center;
+      font-size: 1.2rem;
+      font-style: italic;
+      margin-top: -1rem;
+      color: #ffd700;
+    }
+    .section {
+      max-width: 800px;
+      margin: 2rem auto;
+      background: rgba(255, 255, 255, 0.05);
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 0 15px #ff4500;
+    }
+    footer {
+      text-align: center;
+      margin: 2rem 0;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+    audio {
+      display: block;
+      margin: 2rem auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <h1>FURYON</h1>
+    <div class="quote">"Dal fuoco nasce la leggenda."</div><audio controls>
+  <source src="px-downloadaudio_2821ca9e84.mp3" type="audio/mp3">
+  Il tuo browser non supporta l'audio.
+</audio>
 
-[![preview](https://github.com/Azgaar/Fantasy-Map-Generator/assets/26469650/b0d0efde-a0d1-4e80-8818-ea3dd83c2323)](https://github.com/Azgaar/Fantasy-Map-Generator/assets/26469650/b0d0efde-a0d1-4e80-8818-ea3dd83c2323)
+<div class="section">
+  <h2>Presentazione</h2>
+  <p>
+    Sul pianeta Furyon, due stirpi di draghi antichi combattono per il dominio spirituale del Fuoco Primordiale. L’ultimo erede degli Akaryu, Kaen, si risveglia con un destino incandescente: salvare la sua stirpe e affrontare l’oscurità che minaccia l’equilibrio dell’universo.
+  </p>
+</div>
 
-Join our [Discord server](https://discordapp.com/invite/X7E84HU) and [Reddit community](https://www.reddit.com/r/FantasyMapGenerator) to share your creations, discuss the Generator, suggest ideas and get the most recent updates.
+<div class="section">
+  <h2>Episodi</h2>
+  <p><strong>Episodio 1:</strong> Kaen si risveglia nel cuore del vulcano sacro. Visioni del passato, un nome dimenticato e una minaccia che ritorna dal cielo infuocato.</p>
+  <p><strong>Episodio 2:</strong> I Custodi del Fuoco radunano le ultime forze. Le leggende sugli Akaryu iniziano a prendere vita.</p>
+  <!-- Puoi aggiungere altri episodi qui -->
+</div>
 
-Contact me via [email](mailto:azgaar.fmg@yandex.com) if you have non-public suggestions. For bug reports please use [GitHub issues](https://github.com/Azgaar/Fantasy-Map-Generator/issues) or _#fmg-bugs_ channel on Discord. If you are facing performance issues, please read [the tips](https://github.com/Azgaar/Fantasy-Map-Generator/wiki/Tips#performance-tips).
+<div class="section">
+  <h2>Contatti</h2>
+  <p>Autore: Vittorio Palomba</p>
+  <p>Email: <a href="mailto:vittoriopalomba200@gmail.com" style="color: #ffa500;">vittoriopalomba200@gmail.com</a></p>
+</div>
 
-Pull requests are highly welcomed. The codebase is messy and requires re-design. I will appreciate if you start with minor changes. Check out the [data model](https://github.com/Azgaar/Fantasy-Map-Generator/wiki/Data-model) before contributing.
+<footer>
+  &copy; 2025 Furyon: L'Eredità degli Akaryu. Tutti i diritti riservati.
+</footer>
 
-You can support the project on [Patreon](https://www.patreon.com/azgaar).
-
-_Inspiration:_
-
-- Martin O'Leary's [_Generating fantasy maps_](https://mewo2.com/notes/terrain)
-
-- Amit Patel's [_Polygonal Map Generation for Games_](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation)
-
-- Scott Turner's [_Here Dragons Abound_](https://heredragonsabound.blogspot.com)
+  </div>
+</body>
+</html>
